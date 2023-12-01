@@ -1,7 +1,7 @@
-# nba-led-scoreboard
+# MLS-led-scoreboard
 ![I promise to change this picture when I actually build my own](imgs/pregame_state.jpg)
 
-Display daily NBA action on an raspberry pi powered LED matrix. Currently supports 64x32 boards only.
+Display daily MLS action on an raspberry pi powered LED matrix. Currently supports 64x32 boards only.
 
 ### Credit and inpsiration
 This project was inspired by the [nfl-led-scoreboard](https://github.com/mikemountain/nfl-led-scoreboard/) which was inspired by the [nhl-led-scoreboard](https://github.com/riffnshred/nhl-led-scoreboard), who based THEIR project off of the [mlb-led-scoreboard](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard). Go check them out.
@@ -13,7 +13,7 @@ If you enjoy this project, consider buying me a beer. Cheers! :beers:
 ## Features (v1.0.0)
 
 ### GAME ROTATION
-The display will rotate through all of the NBA action for the current day. 
+The display will rotate through all of the MLS action for the current day. 
 
 ### Pregame
 Currently shows the team logos and tip-off time. This uses the time-zone configured for your pi. ![pregame](imgs/pregame_two.jpg)
@@ -56,8 +56,8 @@ sudo apt-get install git python-pip
 This installation process might take some time because it will install all the dependencies listed below.
 
 ```
-git clone --recursive https://github.com/m0ranwad/nba-led-scoreboard
-cd nba-led-scoreboard/
+git clone --recursive https://github.com/m0ranwad/MLS-led-scoreboard
+cd MLS-led-scoreboard/
 sudo chmod +x install.sh
 sudo ./install.sh
 ```
