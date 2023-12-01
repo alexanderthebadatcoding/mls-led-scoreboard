@@ -4,7 +4,7 @@
 Display daily MLS action on an raspberry pi powered LED matrix. Currently supports 64x32 boards only.
 
 ### Credit and inpsiration
-This project was inspired by the [nfl-led-scoreboard](https://github.com/mikemountain/nfl-led-scoreboard/) which was inspired by the [nhl-led-scoreboard](https://github.com/riffnshred/nhl-led-scoreboard), who based THEIR project off of the [mlb-led-scoreboard](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard). Go check them out.
+This project was inspired by the [nba-led-scoreboard](https://github.com/m0ranwad/nba-led-scoreboard) who got the idea from [nfl-led-scoreboard](https://github.com/mikemountain/nfl-led-scoreboard/) which was inspired by the [nhl-led-scoreboard](https://github.com/riffnshred/nhl-led-scoreboard), who based THEIR project off of the [mlb-led-scoreboard](https://github.com/MLB-LED-Scoreboard/mlb-led-scoreboard). Go check them out.
 
 ### Donate
 <a href="https://paypal.me/kircherbrian"><img src="https://github.com/andreostrovsky/donate-with-paypal/blob/master/dark.svg" height="40"></a>  
